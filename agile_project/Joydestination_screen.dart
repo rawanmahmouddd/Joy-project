@@ -19,7 +19,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
     "Spain",
     "Australia",
     "Japan",
-    "China",
+    "Pakistan",
     "Brazil",
     "Mexico",
     "Argentina",
