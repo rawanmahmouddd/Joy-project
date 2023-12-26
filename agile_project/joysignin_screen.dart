@@ -107,7 +107,7 @@ class _SignInSccreenState extends State<SignInSccreen> {
                       alignment: Alignment.centerRight,
                       child: Text(" Forget password?",style: TextStyle(
                           fontWeight: FontWeight.bold,
-                          fontSize: 15,
+                          fontSize: 16,
                           color: Color(0x0766AD0766AD)
                       ),),
                     ),
